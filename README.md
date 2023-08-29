@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nur Afan Syarifudin</h1>
 <h3 align="center">A passionate Back End and DevOps Engineer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afansyarifudin&label=Profile%20views&color=0e75b6&style=flat" alt="afansyarifudin" /> </p>
 
