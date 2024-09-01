@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afansyarifudin&label=Profile%20views&color=0e75b6&style=flat" alt="afansyarifudin" /> </p>
 
-- 🌱 I’m cloud enthusiast especially in **backend engineering, devops engineer, and cloud computing**
+- 🌱 I’m tech enthusiast especially in **backend engineering, devops engineer, and cloud computing**
 
 - 📫 How to reach me **afan.syarifudin10@gmail.com**
 
